@@ -25,6 +25,7 @@ const Burger = styled.div`
   position: relative;
   cursor: pointer;
   display: inline-block;
+  z-index: 1002;
 }
 .nav-icon-5 span{
   background-color:#fff;
